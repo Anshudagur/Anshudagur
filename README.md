@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Dagur</h1>
-<h3 align="center">I'm a final-year student in BCA at Panskura Banamali College</h3>
+<h3 align="center">Backend Developer | ASP.NET | Node.js | SSMS | 🌱 Expanding into Frontend (CSS)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshudagur&label=Profile%20views&color=0e75b6&style=flat" alt="anshudagur" /> </p>
 
